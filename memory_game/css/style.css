@@ -48,14 +48,14 @@ body {
 
 header {
   background-color: #F15B31;
-  /* Check - how to make header color precede h1 color */
+  /* Can header color flow to h1 color? */
   color: #FFFFFF;
   padding: 30px 20px;
 }
 
 nav {
   background-color: #00A6B3;
-/* Check - how to make nav color precede <a> color */
+/* Can nav color flow to <a> color? */
   color: #FFFFFF;
   padding: 20px 0;
 }
